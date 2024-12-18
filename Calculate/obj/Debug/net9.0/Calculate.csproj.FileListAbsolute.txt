@@ -1,0 +1,14 @@
+C:\Users\faste_k7fyb8l\Documents\Programmation\CALCULATE\Calculate\bin\Debug\net9.0\Calculate.exe
+C:\Users\faste_k7fyb8l\Documents\Programmation\CALCULATE\Calculate\bin\Debug\net9.0\Calculate.deps.json
+C:\Users\faste_k7fyb8l\Documents\Programmation\CALCULATE\Calculate\bin\Debug\net9.0\Calculate.runtimeconfig.json
+C:\Users\faste_k7fyb8l\Documents\Programmation\CALCULATE\Calculate\bin\Debug\net9.0\Calculate.dll
+C:\Users\faste_k7fyb8l\Documents\Programmation\CALCULATE\Calculate\bin\Debug\net9.0\Calculate.pdb
+C:\Users\faste_k7fyb8l\Documents\Programmation\CALCULATE\Calculate\obj\Debug\net9.0\Calculate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faste_k7fyb8l\Documents\Programmation\CALCULATE\Calculate\obj\Debug\net9.0\Calculate.AssemblyInfoInputs.cache
+C:\Users\faste_k7fyb8l\Documents\Programmation\CALCULATE\Calculate\obj\Debug\net9.0\Calculate.AssemblyInfo.cs
+C:\Users\faste_k7fyb8l\Documents\Programmation\CALCULATE\Calculate\obj\Debug\net9.0\Calculate.csproj.CoreCompileInputs.cache
+C:\Users\faste_k7fyb8l\Documents\Programmation\CALCULATE\Calculate\obj\Debug\net9.0\Calculate.dll
+C:\Users\faste_k7fyb8l\Documents\Programmation\CALCULATE\Calculate\obj\Debug\net9.0\refint\Calculate.dll
+C:\Users\faste_k7fyb8l\Documents\Programmation\CALCULATE\Calculate\obj\Debug\net9.0\Calculate.pdb
+C:\Users\faste_k7fyb8l\Documents\Programmation\CALCULATE\Calculate\obj\Debug\net9.0\Calculate.genruntimeconfig.cache
+C:\Users\faste_k7fyb8l\Documents\Programmation\CALCULATE\Calculate\obj\Debug\net9.0\ref\Calculate.dll
